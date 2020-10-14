@@ -125,10 +125,6 @@ a:visited {
     border-color: rgba(223,225,229,0);
 }
 
-#search-field {
-
-}
-
 #search-icon {
     flex: 1;
     display: flex;
